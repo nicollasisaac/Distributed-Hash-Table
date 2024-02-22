@@ -84,7 +84,10 @@ Teste aprovado.
 
 ![teste 5](src/teste5.png)
 
-## Referências
+# Contrato DHT solidity
+Fiz um contrato solidity para cadastrar produtos em uma tabela hash com mapping.
+
+# Referências
 Works Cited“Curso de Programação c | Como Implementar Uma TABELA HASH Com Vetor Na Prática? | Aula 260.” Www.youtube.com, 21 Feb. 2024, www.youtube.com/watch?v=N4uQ6oq0VVc. Accessed 22 Feb. 2024.
 
 "#1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies.” Cryptozombies.io, 21 Feb. 2024, cryptozombies.io/pt/lesson/1/chapter/1. Accessed 22 Feb. 2024.
